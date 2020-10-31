@@ -1,4 +1,4 @@
-# front-end-dev-test
+# Rooster-Grin-Front-End-Dev-Test
 
 ## Intro
 
@@ -34,5 +34,4 @@ These required features are requested specifically by the client and should be i
   3. What you enjoyed the most and why
     Use Sketch prototype as reference to do the programming work.
 
-If you have any questions please feel free to email me (Matt) at matt.sprague@roostergrin.com
-# Rooster-Grin-Front-End-Dev-Test
+If you have any questions please feel free to email me (Jimmy) at jimmychen.xin@gmail.com
