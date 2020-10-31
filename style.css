@@ -50,7 +50,7 @@ font-family: OpenSans-Bold;
 font-size: 15px;
 color: #FFFFFF;
 letter-spacing: 1px;
-padding:20px 15px 20px 15px;
+padding:20px;
 }
 
 /*END HEADER*/
@@ -93,4 +93,43 @@ padding-left: 25%;
   height: auto;
 }
 
+/*END SECTION 1*/
+
+/*SECTION 2*/
+
+#sec2 {
+  position: relative;
+}
+
+#sec2-image {
+width: 100%;
+height:auto;
+}
+
+#sec2-title {
+font-family: OpenSans-Bold;
+font-size: 40px;
+color: #613476;
+letter-spacing: 1px;
+line-height: 48px;
+position: absolute;
+top: 45%;
+left: 25%;
+}
+
+#sec2-button {
+background: #FF7218;
+font-family: Avenir-Heavy;
+font-size: 16px;
+color: #FFFFFF;
+letter-spacing: 1px;
+padding:20px;
+position: absolute;
+top: 55%;
+left: 25%;
+}
+
+/*END SECTION 2*/
+
+/*SECTION 3*/
 
