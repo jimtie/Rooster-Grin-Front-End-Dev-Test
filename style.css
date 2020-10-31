@@ -317,4 +317,35 @@ transform: translateY(-50%);
 /*End Carousel*/
 /*END SECTION 5*/
 
+/*FOOTER*/
+#footer {
+background: #FAFAFA;
+text-align: center;
+}
 
+.footer-div {
+	padding: 25px;
+}
+
+#footer p {
+font-family: OpenSans-Bold;
+font-size: 14px;
+color: #3E3E3E;
+letter-spacing: 0;
+}
+
+#footer svg {
+	width: 4%;
+	margin-right: 5px;
+	margin-left: 5px;
+}
+
+#instagram {
+	fill: #613476;
+}
+
+#facebook {
+	fill: #613476;
+}
+
+/*End Footer*/
