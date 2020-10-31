@@ -1,0 +1,52 @@
+#header {
+background:url(./front-end-dev-test-assets/hero.jpg);
+background-size:cover;
+padding:15px;
+overflow:hidden;
+position:relative;
+height:100vh;
+min-height:500px;
+max-height:1080px;
+}
+
+#header-content img {
+  height:90px;
+  padding-top: 33px;
+  padding-left: 73px;
+}
+
+#header-content h1 {
+-webkit-text-stroke: 2px #FFFFFF;
+font-family: OpenSans-ExtraBold;
+font-size: 72px;
+color: rgba(255,255,255,0.00);
+letter-spacing: 0;
+text-align: center;
+line-height: 90px;  
+padding-top: 20rem;
+}
+
+
+#header-content h2 {
+font-family: OpenSans-Bold;
+font-size: 64px;
+color: #FFFFFF;
+letter-spacing: 5px;
+text-align: center;
+line-height: 45px;
+}
+
+#header-button {
+	margin-top: 50px;
+	text-align: center;
+}
+
+#header-content button {
+background: #AC5FD0;
+box-shadow: 0 2px 5px 0 rgba(0,0,0,0.19);
+font-family: OpenSans-Bold;
+font-size: 15px;
+color: #FFFFFF;
+letter-spacing: 1px;
+padding:20px 15px 20px 15px;
+}
