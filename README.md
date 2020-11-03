@@ -16,14 +16,9 @@ Please do the following command to run the code:
 
 These required features are requested specifically by the client and should be implemented.
 
-  1. Fade In Effect for the hero title
-  2. Subtle animation on the four icons
-  3. Fully Functional Site
-
-### Bonus (optional) Features:
-  1. Use of dev server
-  2. Front end framework
-  3. Dynamic backend from a CMS
+  1. Fade In Effect for the hero title (Done)
+  2. Subtle animation on the four icons (Done)
+  3. Fully Functional Site (Done)
 
 ### *Disscussion:*
 
@@ -33,5 +28,11 @@ These required features are requested specifically by the client and should be i
     Carousel style is kind hard to figure out
   3. What you enjoyed the most and why
     Use Sketch prototype as reference to do the programming work.
+
+### *Upgrade Design to Web 3.0:*
+
+  Due to the function of each section, the layout may be changed. A Mockup is attached.
+
+![Web3.0 Mockup](/front-end-dev-test-assets/web-3.0-design.jpg)
 
 If you have any questions please feel free to email me (Jimmy) at jimmychen.xin@gmail.com
